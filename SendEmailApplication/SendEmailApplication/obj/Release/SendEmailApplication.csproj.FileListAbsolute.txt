@@ -1,0 +1,5 @@
+C:\Users\sjoseph\Documents\Visual Studio 2010\Projects\SendEmailApplication\SendEmailApplication\bin\SendEmailApplication.dll
+C:\Users\sjoseph\Documents\Visual Studio 2010\Projects\SendEmailApplication\SendEmailApplication\bin\SendEmailApplication.pdb
+C:\Users\sjoseph\Documents\Visual Studio 2010\Projects\SendEmailApplication\SendEmailApplication\obj\Release\ResolveAssemblyReference.cache
+C:\Users\sjoseph\Documents\Visual Studio 2010\Projects\SendEmailApplication\SendEmailApplication\obj\Release\SendEmailApplication.dll
+C:\Users\sjoseph\Documents\Visual Studio 2010\Projects\SendEmailApplication\SendEmailApplication\obj\Release\SendEmailApplication.pdb
